@@ -119,7 +119,7 @@ Tạo 1 project
 
 ![example](/ANH/Screenshot_1.png)
 
-![example](Screenshot_3.png)
+![example](/ANH/Screenshot_13.png)
 
 **Bước 2 : Tạo 1 project trên file của máy tính tên là thuchanh**
 
