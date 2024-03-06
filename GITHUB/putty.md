@@ -19,7 +19,7 @@ pterm: một mô phỏng thiết bị độc
 Cách sử dụng 
 ###Bước 1 Chạy chương trình PuTTy 
 ###Bước 2 Nhập thông tin IP Và Port
-![example]()
+![example](/)
 Địa chỉ 192.168.1.1 ,port  cố định là 22 
 Bước 4 
 
