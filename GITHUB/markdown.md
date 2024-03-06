@@ -79,7 +79,7 @@ dùng PlanUML
 ### **15.import file** 
 @import"file"
 
-### s**16.Math**
+### **16.Math**
 
 - Cần viết công thức toán cần đặt giữa 2 đầu \$ 
 
