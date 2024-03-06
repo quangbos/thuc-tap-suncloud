@@ -113,48 +113,75 @@ Trang tạo code cho phần toán học : <**https://www.late4technics.com**>
 
  **Bước 1 : Vào Github desktop chọn Create New Repository**
 Tạo 1 project 
-<img src="C:\Users\Acer\OneDrive\InstallAnywhere\Tài liệu\GitHub\thuc-tap-suncloud\GITHUB\Screenshot_1.png">
+<img src="/ANH/Screenshot_13.png">
 
 - Đặt tên cho project 
 
-![example](/ANH/Screenshot_1.png)
+![example](/ANH/Screenshot_2.png)
 
-![example](/ANH/Screenshot_13.png)
+![example](/ANH/Screenshot_3.png)
 
 **Bước 2 : Tạo 1 project trên file của máy tính tên là thuchanh**
 
-![example](Screenshot_4.png)
+![example](/ANH/Screenshot_4.png)
 
 - Ta nhấn SAVE để code chuyển đến github desktop 
 - Thông thường thì sẽ có 2 nhánh : main (code đã fix lỗi)
  ...................................................dev( nhánh chưa fix lỗi ) 
 
-![example](Screenshot_5.png)
+![example](/ANH/Screenshot_5.png)
 
 Nhấn tải lên trang Web 
 t nhấn _commit_ sau đó nhấn _Petch_
-![example](Screenshot_6.png)
+![example](/ANH/Screenshot_6.png)
 
 **Bước 3 vào trang github.com**
 
-![example](Screenshot_7.png)
+![example](/ANH/Screenshot_7.png)
 Chọn vào nhánh main để xem thông tin code đã được lên web hay chưa 
-![example](Screenshot_8.png)
-![example](Screenshot_9.png)
+![example](/ANH/Screenshot_8.png)
+![example](/ANH/Screenshot_9.png)
 **Bước 4 Mời thành viên ( thành viên có thể tham gia vào để chỉnh sửa code trên web )**
 
 - Vào Setting  Chọn  Manage access
 
-![example](Screenshot_10.png)
+![example](/ANH/Screenshot_10.png)
 **Bước 5 Vai trò**
 
 - Nhóm trưởng : có thể thay đổi code và cập nhật vào nhánh dev và main 
 - Thành viên: Thay đổi code và cập nhật vào nhóm  dev 
 
  Nhóm trưởng thay đổi code
-![example](Screenshot_11.png)
+![example](/ANH/Screenshot_11.png)
 
 Sau đó vào VS code
-![example](Screenshot_12.png)
+![example](/ANH/Screenshot_12.png)
 Nếu code lỗi t có thể  ấn **DISCARD CHANGE**  để hủy bỏ thay đổi 
-![example](.)
+![example](/ANH/Screenshot_14.png)
+
+Vào Github  desktop để thấy code hiện lên file 
+Nhấn **COMIT**  để tải lên máy ảo của laptop 
+sau đó nhấn  **Fetch** origin  để tải lên GitHUb 
+**Bước 7 Thành viên thay đổi code  và nhánh dev** 
+
+![example](/ANH/Screenshot_1.png)
+
+- Để lưu file từ trên web về máy tính 
+![example](/ANH/Screenshot_15.png)
+- Sau đó Nhấn Fetch để lưu ngược lại 
+![example](/ANH/Screenshot_16.png)
+- Ta vào **VS** code để kiểm tra sự thay đổi
+ ![example](/ANH/Screenshot_16.png)
+
+- Cuối cùng thấy code đã ổn Nhóm trưởng lưu file vào main 
+
+- Vào github desktop
+<img src="/ANH/Screenshot_18.png">
+
+<img src="/ANH/Screenshot_19.png">
+
+- chọn nhánh Dev cập nhật vào Main 
+- Nhấn commit sau rồi nhấn Petch 
+- Cách thay đổi github từ private sang Public 
+<**https://www.youtube.com/watch?v=tEwmIoU1NUg**>
+
