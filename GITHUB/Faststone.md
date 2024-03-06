@@ -1,11 +1,11 @@
-#Phần mềm Faststone Capture 
+# Phần mềm Faststone Capture 
 - Fastone Capture là một công cụ quay chụp màn hình siêu nhẹ nhưng đầy đủ  những tính năng chỉnh sửa ảnh cần thiết . Sở  hữu giao diện thân thiện , trực quan và dễ sử dụng nên người dùng có thể thêm chú thích, hình vẽ vào ảnh đã chụp một cách đơn giản 
 - Khi thực hiện quay video màn hình, phần mềm này sẽ hỗ trợ cho bạn tất cả những công cụ cần thiết để tạo ra một video hoàn chỉnh như ghi âm thanh, điều chỉnh màu chuyển động của con trỏ chuột,... và cho phép người dùng xuất video dưới với độ phân giải cao.
 - Faststone Capture hỗ trợ xuất ra nhiều định dạng lưu ảnh khác nhau như GIF, JPEG, PNG, BMP, TIFF và định dạng PDF. Hình ảnh sau khi được xuất ra với chất lượng cao nên bạn không cần phải lo lắng khi gửi qua mail, chia sẻ lên mạng xã hội hoặc PowerPoint sẽ bị vỡ nét.
 
 [Link download](https://v90.x8top.net/tmp082020/cf/soft/2022/12/ba/5/faststone-capture_98.exe)
 
-##Hướng dẫn sử dụng phần mềm Faststone Capture 
+## Hướng dẫn sử dụng phần mềm Faststone Capture 
 - open file in editor  : vào file 
 - Capture Window/Object:  Quay vùng cửa sổ hoặc đối tượng được chọn.
 - Capture Rectangular Region ( Ctrl+ PrtSc ) :chọn khu vực  chụp ảnh màn hình 
@@ -17,7 +17,7 @@
 - Output-> To Editor : các công cụ chỉnh sửa
 - Setting  : cài đặt 
 
-##Các bước chụp màn hình  
+## Các bước chụp màn hình  
 **Bước 1** : Vào phần Capture để tùy chọn chụp
 
 ![example](/ANH/Screenshot_24.png)
@@ -77,7 +77,7 @@ thoát
 - Ta nhấn trỏ phải chuột vào logo FastStone 
 - Sau đó vào phần Hotkey để xem chi tiết các nút và có thể chỉnh sửa theo ý muốn 
 
-##Các phím bật tắt trong Faststone
+## Các phím bật tắt trong Faststone
 
 ![example](/ANH/Screenshot_34.png)
 
