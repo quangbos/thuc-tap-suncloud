@@ -112,7 +112,8 @@ Trang tạo code cho phần toán học : <**https://www.late4technics.com**>
 Đăng ký tài khoản trên trang  https://github.com  
 
  **Bước 1 : Vào Github desktop chọn Create New Repository**
-Tạo 1 project 
+Tạo 1 project
+
 <img src="/ANH/Screenshot_13.png">
 
 - Đặt tên cho project 
@@ -136,7 +137,6 @@ t nhấn _commit_ sau đó nhấn _Petch_
 ![example](/ANH/Screenshot_6.png)
 
 **Bước 3 vào trang github.com**
-
 ![example](/ANH/Screenshot_7.png)
 Chọn vào nhánh main để xem thông tin code đã được lên web hay chưa 
 ![example](/ANH/Screenshot_8.png)
@@ -144,31 +144,30 @@ Chọn vào nhánh main để xem thông tin code đã được lên web hay ch�
 **Bước 4 Mời thành viên ( thành viên có thể tham gia vào để chỉnh sửa code trên web )**
 
 - Vào Setting  Chọn  Manage access
-
 ![example](/ANH/Screenshot_10.png)
 **Bước 5 Vai trò**
-
 - Nhóm trưởng : có thể thay đổi code và cập nhật vào nhánh dev và main 
 - Thành viên: Thay đổi code và cập nhật vào nhóm  dev 
 
  Nhóm trưởng thay đổi code
+ 
 ![example](/ANH/Screenshot_11.png)
 
 Sau đó vào VS code
-![example](/ANH/Screenshot_12.png)
-Nếu code lỗi t có thể  ấn **DISCARD CHANGE**  để hủy bỏ thay đổi 
-![example](/ANH/Screenshot_14.png)
 
+![example](/ANH/Screenshot_12.png)
+Nếu code lỗi t có thể  ấn **DISCARD CHANGE**  để hủy bỏ thay đổi
+
+![example](/ANH/Screenshot_14.png)
 Vào Github  desktop để thấy code hiện lên file 
 Nhấn **COMIT**  để tải lên máy ảo của laptop 
 sau đó nhấn  **Fetch** origin  để tải lên GitHUb 
 **Bước 7 Thành viên thay đổi code  và nhánh dev** 
-
 ![example](/ANH/Screenshot_1.png)
 
-- Để lưu file từ trên web về máy tính 
+- Để lưu file từ trên web về máy tính
 ![example](/ANH/Screenshot_15.png)
-- Sau đó Nhấn Fetch để lưu ngược lại 
+- Sau đó Nhấn Fetch để lưu ngược lại
 ![example](/ANH/Screenshot_16.png)
 - Ta vào **VS** code để kiểm tra sự thay đổi
  ![example](/ANH/Screenshot_16.png)
@@ -177,7 +176,6 @@ sau đó nhấn  **Fetch** origin  để tải lên GitHUb
 
 - Vào github desktop
 <img src="/ANH/Screenshot_18.png">
-
 <img src="/ANH/Screenshot_19.png">
 
 - chọn nhánh Dev cập nhật vào Main 
