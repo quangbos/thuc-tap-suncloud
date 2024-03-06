@@ -17,7 +17,7 @@
 - Output-> To Editor : các công cụ chỉnh sửa
 - Setting  : cài đặt 
 
-##Các bước chụp màn hình 
+##Các bước chụp màn hình  
 **Bước 1** : Vào phần Capture để tùy chọn chụp
 
 ![example](/ANH/Screenshot_24.png)
