@@ -1,3 +1,8 @@
+- [Phần mềm Faststone Capture](#phần-mềm-faststone-capture)
+  - [Hướng dẫn sử dụng phần mềm Faststone Capture](#hướng-dẫn-sử-dụng-phần-mềm-faststone-capture)
+  - [Các bước chụp màn hình](#các-bước-chụp-màn-hình)
+  - [Các phím bật tắt trong Faststone](#các-phím-bật-tắt-trong-faststone)
+
 # Phần mềm Faststone Capture 
 - Fastone Capture là một công cụ quay chụp màn hình siêu nhẹ nhưng đầy đủ  những tính năng chỉnh sửa ảnh cần thiết . Sở  hữu giao diện thân thiện , trực quan và dễ sử dụng nên người dùng có thể thêm chú thích, hình vẽ vào ảnh đã chụp một cách đơn giản 
 - Khi thực hiện quay video màn hình, phần mềm này sẽ hỗ trợ cho bạn tất cả những công cụ cần thiết để tạo ra một video hoàn chỉnh như ghi âm thanh, điều chỉnh màu chuyển động của con trỏ chuột,... và cho phép người dùng xuất video dưới với độ phân giải cao.

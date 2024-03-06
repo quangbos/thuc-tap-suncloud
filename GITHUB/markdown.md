@@ -1,3 +1,24 @@
+- [Tìm hiểu về ngôn ngữ Markdown và các đẩy lên web](#tìm-hiểu-về-ngôn-ngữ-markdown-và-các-đẩy-lên-web)
+  - [Khái niệm](#khái-niệm)
+    - [**1.Cách viết tiêu đề**](#1cách-viết-tiêu-đề)
+    - [**2.Cách chấm đầu dòng**](#2cách-chấm-đầu-dòng)
+    - [**3.Cách viết số đầu dòng**](#3cách-viết-số-đầu-dòng)
+    - [**4.Cách viết in đậm**](#4cách-viết-in-đậm)
+    - [**5.Cách viết in nghiêng**](#5cách-viết-in-nghiêng)
+    - [**6.Cách để  gạch bỏ, xóa**](#6cách-để--gạch-bỏ-xóa)
+    - [**7.Để dữ lại ký tự đặc biệt như \* \_**](#7để-dữ-lại-ký-tự-đặc-biệt-như--_)
+    - [**8.Cách tạo Quotation**](#8cách-tạo-quotation)
+    - [**9.Tạo bảng**](#9tạo-bảng)
+    - [**10.Cách code block**](#10cách-code-block)
+    - [**11.Cách tạo dấu gạch ngang dài**](#11cách-tạo-dấu-gạch-ngang-dài)
+    - [**12.Cách chèn link**](#12cách-chèn-link)
+    - [**13.Cách chèn hình ảnh**](#13cách-chèn-hình-ảnh)
+    - [**14.Cách vẽ biểu đồ**](#14cách-vẽ-biểu-đồ)
+    - [**15.import file**](#15import-file)
+    - [**16.Math**](#16math)
+- [Cách đẩy code lên github](#cách-đẩy-code-lên-github)
+  - [Cách thay đổi github từ private sang Public](#cách-thay-đổi-github-từ-private-sang-public)
+
 # Tìm hiểu về ngôn ngữ Markdown và các đẩy lên web
 ## Khái niệm 
 Được hiểu là công cụ để viết tài liệu kỹ thuật 
