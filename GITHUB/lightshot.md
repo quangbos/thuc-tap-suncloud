@@ -1,5 +1,13 @@
 
 
+- [Phần mềm Lightshot](#phần-mềm-lightshot)
+  - [Cách sử dụng Lightshot :](#cách-sử-dụng-lightshot-)
+    - [Bước 1](#bước-1)
+    - [Bước 2](#bước-2)
+    - [Bước 3](#bước-3)
+    - [Bước 4](#bước-4)
+  - [Các phím sử dụng](#các-phím-sử-dụng)
+
 # Phần mềm Lightshot 
 
 - LightShot là phần mềm chụp màn hình máy tính miễn phí được sử dụng khá phổ biến trên thế giới bởi nó vô cùng đơn giản và nhanh chóng. Bạn không cần phải chụp màn hình bằng Screenshot sau đó chỉnh sửa bằng Paint nữa, vì giờ đây các tính năng đó đã được tích hợp trên LightShot.
