@@ -18,10 +18,9 @@
 - Setting  : cài đặt 
 
 ##Các bước chụp màn hình 
+**Bước 1** : Vào phần Capture để tùy chọn chụp
 
-**Bước 1** : Vào phần Capture để tùy chọn chụp 
 ![example](/ANH/Screenshot_24.png)
-
 **Bước 2** : Bên cạnh chức năng quay màn hình thì phần mềm còn có thể sử dụng để chỉnh sửa hình ảnh.
  
  Nhấn vào *Draw* để thực hiện việc vẽ chỉnh sửa lên ảnh đã chụp
@@ -29,10 +28,10 @@
 ![example](/ANH/Screenshot_25.png)
 
 Nhấn *Caption* để thêm Text hoặc ghi chú tùy thích cho ảnh đã chụp 
+
 ![example](/ANH/Screenshot_26.png)
-
-
 Tính năng *Edge* dùng để viền cho hình ảnh. Menu tùy chọn của tính năng Edge gồm: tùy chỉnh hiệu ứng cho khung, điều chỉnh chiều dài và rộng của khung, màu sắc khung.
+
 ![example](/ANH/Screenshot_27.png)
 
 Chọn *Resize* để điều chỉnh kích thước 
@@ -48,6 +47,7 @@ chọn *Spotlight* để làm nổi chữ trong ảnh
 
 
 **Bước 2**: Một hộp thoại xuất hiện, bạn nhấn chọn vào một trong những tùy chọn vị trí  bạn muốn quay màn hình
+
 ![example](/ANH/Screenshot_30.png)
 
 
@@ -67,17 +67,18 @@ chọn *Spotlight* để làm nổi chữ trong ảnh
 - Notification:  m thanh báo lúc bật/ tắt quay màn hình.
 **Bước 4:  Nhấn Record** 
 **Bước 5:  nhấn Start**
+  
 ![example](/ANH/Screenshot_32.png)
-
-
 **Bước 6**:  Nhấn Resume để kết thúc , nhấn Save để lưu và nhấn Discard để 
 thoát
+
 ![example](/ANH/Screenshot_33.png)
 
 - Ta nhấn trỏ phải chuột vào logo FastStone 
 - Sau đó vào phần Hotkey để xem chi tiết các nút và có thể chỉnh sửa theo ý muốn 
 
 ##Các phím bật tắt trong Faststone
+
 ![example](/ANH/Screenshot_34.png)
 
 
