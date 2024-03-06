@@ -3,42 +3,42 @@
 Được hiểu là công cụ để viết tài liệu kỹ thuật 
 Ưu điểm : viết nhanh hơn vì format đơn giản ,khi copy paste cũng không lẫn như word 
  
-**1.Cách viết tiêu đề**
+###**1.Cách viết tiêu đề**
 đây là tiêu đề 1 của văn bản #
 đây là tiêu đề 2 của văn bản ##
 đây là tiêu đề 3 ###( tối đa 6 tiêu đề ) 
 
-**2.Cách chấm đầu dòng**  
+###**2.Cách chấm đầu dòng**  
 - đây là cách chấm đầu dòng 
 
-**3.Cách viết số đầu dòng** 
+###**3.Cách viết số đầu dòng** 
 1.day là cach viết số đầu dòng 1
 2.day là cách viết số đầu dòng 2
-**4.Cách viết in đậm**
+###**4.Cách viết in đậm**
 ** in đậm ** 
-**5.Cách viết in nghiêng** 
+###**5.Cách viết in nghiêng** 
 *in nghiêng*
 _in nghiêng_
 *** in cả đậm cả nghiêng ***
 
-**6.Cách để  gạch bỏ, xóa** 
+###**6.Cách để  gạch bỏ, xóa** 
 ~~xóa có dấu gạch~~
 
-**7.Để dữ lại ký tự đặc biệt như * _**
+###**7.Để dữ lại ký tự đặc biệt như * _**
 \*\* đây là cách để giữ lại ký tự đặc biệt dấu sao  \*\*
 \- đây là cách để giữ lại ký tự đặc biệt dấu gạch \-
 
-**8.Cách tạo Quotation**
+###**8.Cách tạo Quotation**
 ` tạo note có khung `
 ` Một ngày thật đẹp là ngày đi làm `
 
-**9.Tạo bảng** 
+###**9.Tạo bảng** 
 | stt | cột 1 | cột 2 |
 | --- | ----- | ----- |
 | 1   | x21   | x22   |
 | 2   | x31   | 32    |
 
-**10.Cách code block** 
+###**10.Cách code block** 
 _Cách 1_
 ```c         
 void main 
@@ -48,10 +48,10 @@ end
 *Cách 2* 
 Ta có thể nhấn phím **Tab**                          
 
-**11.Cách tạo dấu gạch ngang dài** 
+###**11.Cách tạo dấu gạch ngang dài** 
 ____
 *** 
-**12.Cách chèn link**
+###**12.Cách chèn link**
 
 - Có thể chèn link bằng dấu ngoặc vuông và tròn như sau:
 [ dây là link ](https://www.gggggg.com)
@@ -64,22 +64,22 @@ ____
 
 [1]:<https://www.gggggg.coccscs>
 
-**13.Cách chèn hình ảnh** 
+###**13.Cách chèn hình ảnh** 
 Để chèn ảnh trong vscode cần để ảnh cùng với folder với file Readme.md
 
 ! [example] (anh.png)   ( CÁCH 1)
 
 < img src="link_anh_cua_ban"> ( CÁCH 2) 
 
-**14.Cách vẽ biểu đồ** 
+###**14.Cách vẽ biểu đồ** 
 Dùng mermail 
 [ mermaid](ttps:///gggg.com ) 
 dùng PlanUML
 
-**15.import file** 
+###**15.import file** 
 @import"file"
 
-**16.Math**
+###**16.Math**
 
 - Cần viết công thức toán cần đặt giữa 2 đầu \$ 
 
@@ -110,7 +110,7 @@ Trang tạo code cho phần toán học : <**https://www.late4technics.com**>
 # Cách đẩy code lên github 
 - Tạo 1 cái tài khoản 
 Đăng ký tài khoản trên trang  https://github.com  
-
+##Các bước thực hiện : 
  **Bước 1 : Vào Github desktop chọn Create New Repository**
 Tạo 1 project
 
@@ -134,16 +134,22 @@ Tạo 1 project
 
 Nhấn tải lên trang Web 
 t nhấn _commit_ sau đó nhấn _Petch_
+
 ![example](/ANH/Screenshot_6.png)
 
 **Bước 3 vào trang github.com**
+
 ![example](/ANH/Screenshot_7.png)
 Chọn vào nhánh main để xem thông tin code đã được lên web hay chưa 
+
 ![example](/ANH/Screenshot_8.png)
+
 ![example](/ANH/Screenshot_9.png)
+
 **Bước 4 Mời thành viên ( thành viên có thể tham gia vào để chỉnh sửa code trên web )**
 
 - Vào Setting  Chọn  Manage access
+- 
 ![example](/ANH/Screenshot_10.png)
 **Bước 5 Vai trò**
 - Nhóm trưởng : có thể thay đổi code và cập nhật vào nhánh dev và main 
@@ -163,6 +169,7 @@ Vào Github  desktop để thấy code hiện lên file
 Nhấn **COMIT**  để tải lên máy ảo của laptop 
 sau đó nhấn  **Fetch** origin  để tải lên GitHUb 
 **Bước 7 Thành viên thay đổi code  và nhánh dev** 
+
 ![example](/ANH/Screenshot_1.png)
 
 - Để lưu file từ trên web về máy tính
@@ -175,11 +182,14 @@ sau đó nhấn  **Fetch** origin  để tải lên GitHUb
 - Cuối cùng thấy code đã ổn Nhóm trưởng lưu file vào main 
 
 - Vào github desktop
+
 <img src="/ANH/Screenshot_18.png">
+
 <img src="/ANH/Screenshot_19.png">
 
 - chọn nhánh Dev cập nhật vào Main 
 - Nhấn commit sau rồi nhấn Petch 
-- Cách thay đổi github từ private sang Public 
+## Cách thay đổi github từ private sang Public 
+- Xem hướng dẫn 
 <**https://www.youtube.com/watch?v=tEwmIoU1NUg**>
 
