@@ -117,7 +117,7 @@ Tạo 1 project
 
 - Đặt tên cho project 
 
-![example](/ANH/Screenshot_2.png)
+![example](/ANH/Screenshot_13.png)
 
 ![example](/ANH/Screenshot_3.png)
 
