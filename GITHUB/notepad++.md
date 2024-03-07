@@ -1,3 +1,11 @@
+- [Tìm hiểu về công cụ Notepad++](#tìm-hiểu-về-công-cụ-notepad)
+  - [Công dụng](#công-dụng)
+  - [Cách sử dụng Notepad++](#cách-sử-dụng-notepad)
+  - [Làm sao để gõ tiếng việt trong Notepad++](#làm-sao-để-gõ-tiếng-việt-trong-notepad)
+  - [Nên làm gì khi gặp lỗi](#nên-làm-gì-khi-gặp-lỗi)
+  - [Làm gì để tự động lưu trong Notepad++](#làm-gì-để-tự-động-lưu-trong-notepad)
+  - [Tổng hợp các tổ hợp phím hay dùng](#tổng-hợp-các-tổ-hợp-phím-hay-dùng)
+
 # Tìm hiểu về công cụ Notepad++
 
 - Định nghĩa: Notepad++ là một phần mềm hỗ trợ soạn thảo đa tính năng hỗ trợ chuyên nghiệp cho code .Các lập trình viên từ nghiệp dư đến chuyên nghiệp sử dụng để viết code 
