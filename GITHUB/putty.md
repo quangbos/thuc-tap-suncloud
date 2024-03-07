@@ -1,10 +1,10 @@
-#Phần mềm dùng cho SSH  Putty 
 
+#1. Phần mềm dùng cho SSH  Putty 
 - PuTTY được hiểu là phần mềm sử dụng để điều khiển server thông qua mạng internet, Nó hỗ trợ nhiều giao thức mạng, bao gồm SCP, SSH, Telnet, rlogin... PuTTY ban đầu được viết dành riêng cho hệ điều hành Windows, nhưng hiện nay nó đã được viết cho nhiều hệ điều hành khác như Unix, hệ điều hành MacOS,  Symbian, Windows Mobile và android. PuTTY không phải chữ viết tắt nào trong tiếng anh. PuTTY được sử dụng để điều khiển VPS.
  PuTTY được viết và được duy trì chủ yếu bởi Simon Tatham và hiện đang là phần mềm phiên bản beta
 [Link Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 
 
-##Tính Năng 
+##1.1. Tính Năng 
 - PuTTY hỗ trợ nhiều biến thể trên "các thiết bị đầu cuối" từ xa an toàn, và cung cấp cho người dùng trình điều khiển các SSH với khóa mã hóa, các giao thức, thuật toán mã hóa thay thế như 3DES , Arcfour, Blowfish, DES, và khóa công khai xác thực. Các lớp giao tiếp mạng hỗ trợ IPv6, và các giao thức SSH hỗ trợ các chương trình nén openssh bị trì hoãn. Nó cũng có thể được sử dụng với các kết nối cổng nối tiếp trong mạng LAN.
 - PuTTY đi kèm với dòng lệnh SCP và SFTP khách hàng, được gọi là "PSCP" và "psftp" tương ứng, và Plink, một công cụ kết nối dòng lệnh, được sử dụng cho các phiên không tương tác.
 Thành Phần 
@@ -19,8 +19,8 @@ pterm: một mô phỏng thiết bị độc
 Cách sử dụng 
 ###Bước 1 Chạy chương trình PuTTy 
 ###Bước 2 Nhập thông tin IP Và Port
-![example](/)
+![example](/ANH/Screenshot_6.png)
 Địa chỉ 192.168.1.1 ,port  cố định là 22 
-Bước 4 
+
 
 
