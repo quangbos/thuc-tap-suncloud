@@ -1,3 +1,17 @@
+- [Phần mềm tạo máy chủ ảo Vmware Workstation](#phần-mềm-tạo-máy-chủ-ảo-vmware-workstation)
+  - [1. Giới thiệu về VMware Workstation](#1-giới-thiệu-về-vmware-workstation)
+  - [2. Tầm quan trọng?](#2-tầm-quan-trọng)
+  - [3. Các tính năng](#3-các-tính-năng)
+  - [4. Hướng dẫn sử dụng](#4-hướng-dẫn-sử-dụng)
+    - [4.1. Tải phần mềm](#41-tải-phần-mềm)
+    - [4.2. Cách sử dụng phần mềm](#42-cách-sử-dụng-phần-mềm)
+      - [4.2.1. Cách chỉnh sửa lại vào dọn rác máy ảo vào phần edit](#421-cách-chỉnh-sửa-lại-vào-dọn-rác-máy-ảo-vào-phần-edit)
+      - [4.2.2. Cách cài VMW Tool đề có thể chuyển file hay thư mục từ máy thật sang máy ảo](#422-cách-cài-vmw-tool-đề-có-thể-chuyển-file-hay-thư-mục-từ-máy-thật-sang-máy-ảo)
+      - [4.2.3. Cách kết nối mạng và các thiết bị vào máy ảo như DVD,Vm](#423-cách-kết-nối-mạng-và-các-thiết-bị-vào-máy-ảo-như-dvdvm)
+      - [4.2.4. Cách tạo bảo sao cho văn bản](#424-cách-tạo-bảo-sao-cho-văn-bản)
+    - [4.3. Tải file ISO Windowns 10 cho máy ảo](#43-tải-file-iso-windowns-10-cho-máy-ảo)
+    - [4.4.  Cài windowns 10  vào phần mềm VMware của bạn](#44--cài-windowns-10--vào-phần-mềm-vmware-của-bạn)
+
 # Phần mềm tạo máy chủ ảo Vmware Workstation 
 ## 1. Giới thiệu về VMware Workstation
 - VMware là phần mềm tạo máy ảo làm việc trên máy tính của bạn 
@@ -19,6 +33,7 @@
 [Link download]( https://download.com.vn/download/vmware-workstation-8587?linkid=83201)
 
 ### 4.2. Cách sử dụng phần mềm  
+
 Tắt máy ảo thì có thể chọn 1 trong 2 cách sau:
 - Chọn Power Off trên thanh công cụ của VM
 
@@ -30,11 +45,11 @@ Tắt máy ảo thì có thể chọn 1 trong 2 cách sau:
 
 ![example](/ANH/Screenshot_52.png)
 
-- Cách chỉnh sửa lại vào dọn rác máy ảo vào phần edit
+#### 4.2.1. Cách chỉnh sửa lại vào dọn rác máy ảo vào phần edit
 
 ![example](/ANH/Screenshot_69.png)
 
-- Cách cài VMW Tool đề có thể chuyển file hay thư mục từ máy thật sang máy ảo 
+#### 4.2.2. Cách cài VMW Tool đề có thể chuyển file hay thư mục từ máy thật sang máy ảo 
 
 ![example](/ANH/Screenshot_70.png)
 
@@ -45,12 +60,12 @@ Tắt máy ảo thì có thể chọn 1 trong 2 cách sau:
 - Nhấn để cài đặt tool
 - Ta nhấn Next rồi sau đó FInish 
  
-- Cách kết nối mạng và các thiết bị vào máy ảo như DVD,Vm  
+#### 4.2.3. Cách kết nối mạng và các thiết bị vào máy ảo như DVD,Vm  
 
 ![example](/ANH/Screenshot_72.png)
 
 
-- Cách tạo bảo sao cho văn bản 
+#### 4.2.4. Cách tạo bảo sao cho văn bản 
 Ta tắt máy ảo đi 
 Rồi chọn VM rồi chọn SNAPSHOT rồi TAKESPAPSHOT
 
@@ -72,10 +87,10 @@ Ta có thể thay đổi tên rồi ấn **Take snapshot**
 
 
 
-#### 4.3. Tải file ISO Windowns 10 cho máy ảo 
+### 4.3. Tải file ISO Windowns 10 cho máy ảo 
 - Ta làm theo như hướng dẫn để tải file về và cài đặt 
 [Link hướng dẫn](https://www.youtube.com/watch?v=sL0UMOAMXLA&t=0s)
-#### 4.4.  Cài windowns 10  vào phần mềm VMware của bạn 
+### 4.4.  Cài windowns 10  vào phần mềm VMware của bạn 
 
 ![example](/ANH/Screenshot_53.png)
 
@@ -142,14 +157,5 @@ Các bước tiếp theo ta làm như màn hình của máy ảo
 
 ![example](/ANH/Screenshot_68.png)
 
-### 4.2. Cách sử dụng phần mềm  
-Tắt máy ảo thì có thể chọn 1 trong 2 cách sau:
-- Chọn Power Off trên thanh công cụ của VM
 
-- Chọn Shut Down Guest. Nếu tắt máy bằng cách này thì máy ảo sẽ tự động mở khi bạn đăng nhập vào VMware.
-
-![example](/ANH/Screenshot_51.png)
-
-
-![example](/ANH/Screenshot_52.png)
 
